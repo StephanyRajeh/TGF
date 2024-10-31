@@ -5,7 +5,7 @@ In this repository, we demonstrate preprocessing, injection, feature generation,
 
 Reference datasets can be downloaded from: http://konect.cc/networks/ and http://snap.stanford.edu/jodie/. <br>
 
-Large scale datasets and their generated features can be accessed from: http://data.complexnetworks.fr/TGF/.
+Large scale datasets and their generated features can be accessed from: http://data.complexnetworks.fr/TGF/data.
 
 ## Phase 1: Preprocessing
 ### Description
