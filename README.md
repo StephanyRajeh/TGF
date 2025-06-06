@@ -1,5 +1,5 @@
 # TGF
-A repository of the paper: Trivial Graph Features and Old-School Learning for Anomalous Link Detection in Link Streams
+A repository of the paper: Trivial Graph Features and Classical Learning are Enough to Detect Random Anomalies
 
 In this repository, we demonstrate preprocessing, injection, feature generation, and learning using two datasets as illustrative examples. One dataset is MovieLens, a bipartite link stream, while the other is UCI Messages, a unipartite link stream. <br>
 
