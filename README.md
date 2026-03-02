@@ -97,4 +97,4 @@ If you find this repository useful in your research, please cite our work and co
 ```
 
 ## Contact
-If you have any questions, please do not hesitate to reach out to us at stephany.rajeh@efrei.fr and matthieu.Latapy@lip6.fr
+If you have any questions, please do not hesitate to reach out to us at stephany.rajeh@efrei.fr and matthieu.latapy@lip6.fr
