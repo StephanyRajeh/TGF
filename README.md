@@ -1,11 +1,11 @@
 # TGF
-A repository of the paper: Trivial Graph Features and Classical Learning are Enough to Detect Random Anomalies
+A repository for the paper [Trivial Graph Features and Classical Learning are Enough to Detect Random Anomalies](https://ieeexplore.ieee.org/abstract/document/11391890), which is also accompanied by its dedicated [website](https://stephanyrajeh.github.io/TGFWebsite/).
 
 In this repository, we demonstrate preprocessing, injection, feature generation, and learning using two datasets as illustrative examples. One dataset is MovieLens, a bipartite link stream, while the other is UCI Messages, a unipartite link stream. <br>
 
 Reference datasets can be downloaded from: http://konect.cc/networks/ and http://snap.stanford.edu/jodie/. <br>
 
-Large scale datasets and their generated features will be provided after acceptance as they are hosted on the lab's server, which could reveal the authors' identities.
+Large scale datasets and their generated features are hosted on the ComplexNetworks team (LIP6, Sorbonne University) lab server at: http://data.complexnetworks.fr/TGF/data.
 
 ## Phase 1: Preprocessing
 ### Description
@@ -80,3 +80,21 @@ In this folder, there are 5 main subfolders:
 5. CombiningHandGTypeHistoryGraphs: Learning is performed on multiple instances of $H$-type and $G$-type history graphs of varying sizes and durations combined together.
 
 <h6>Note: If learning is to be done on large dynamic networks, refer to the folder "4-LearningAndTesting-LargeNetworks", where a sampling technique is applied initially so the features are not entirely loaded into the memory and a chunking technique is used for testing. Similarly is the case for TGF with sliding windows. </h6>
+
+## Citation
+
+If you find this repository useful in your research, please cite our work and consider giving the repository a star!
+
+```bibtex
+@inproceedings{latapy2025trivial,
+  title={Trivial Graph Features and Classical Learning are Enough to Detect Random Anomalies},
+  author={Latapy, Matthieu and Rajeh, Stephany},
+  booktitle={2025 IEEE International Conference on Data Mining (ICDM)},
+  pages={1330--1339},
+  year={2025},
+  doi={10.1109/ICDM65498.2025.00142}
+}
+```
+
+## Contact
+If you have any questions, please do not hesitate to reach out to us at stephany.rajeh@efrei.fr and matthieu.Latapy@lip6.fr
